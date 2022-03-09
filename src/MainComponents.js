@@ -4,6 +4,7 @@ import Home from './components/Home';
 import Login from './components/Login';
 import PlanTrip from './PlanTrip';
 import Header from './components/HeaderComponent';
+import SpotDetail from './components/SpotDetails';
 function Main(){
   
   const [loggedIn, setloggedIn] = useState(false);
@@ -34,6 +35,7 @@ function Main(){
             <Route exact path='/register' component={RegisterPage} />
             <Route exact path='/profile' component={ProfilePage} />
             <Route exact path='/logout' component={Login} /> */}
+            <Route path='/spots/' component={SpotDetail} />
             <Route exact path='/plantrip' component={PlanTrip} />
             <Route exact path='/login' component={LoginPage} />
             <Redirect to="/home" />

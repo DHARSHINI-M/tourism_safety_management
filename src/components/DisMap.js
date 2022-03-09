@@ -1,16 +1,17 @@
 
 import { Map, GoogleApiWrapper, Marker  } from 'google-maps-react';
 const mapStyles = {
-    width: '80%',
-    height: '80%'
+    width: '90%',
+    height: '90%'
   };
 function DisMap (props){
     return(
     <div>
         <Map
           google={props.google}
-          zoom={14}
+          zoom={18}
           style={mapStyles}
+          mapTypes = "SATELLITE"
           initialCenter={{
             lat: props.latti,
             lng: props.longi
