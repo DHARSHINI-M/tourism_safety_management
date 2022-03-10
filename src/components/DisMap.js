@@ -26,5 +26,5 @@ function DisMap (props){
     );
 }
 export default GoogleApiWrapper({
-    apiKey: 'AIzaSyCib2gXfRKlIM28pqu78DhN0EjVAztNwG0'
+    apiKey: 'AIzaSyDk19npnuTEdJXwb-7jZT74TxzEbXRb6LU'
   })(DisMap);

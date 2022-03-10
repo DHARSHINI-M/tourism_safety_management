@@ -3,6 +3,7 @@ import { spots } from "../Contents/spots";
 import DisMap from "./DisMap";
 import { useState } from "react";
 import {Card,CardBody,CardImg,Carousel,Button,Form, Row,Col, InputGroup } from 'react-bootstrap';
+import DisplaySMap from "../maps/DisplaySMap";
 function SpotDetail(){
     const [index, setindex] = useState(0);
     const location = useLocation();
@@ -45,7 +46,13 @@ function SpotDetail(){
                         <div className="col-md-6">
                         <div className="map">
                             <DisMap latti={S.latti} longi={S.longi}/> 
+                            
                         </div>
+                        </div>
+                    </div>
+                    <div className="row">
+                        <div className="col-md-12">
+                        <DisplaySMap/>
                         </div>
                     </div>
                 </div>

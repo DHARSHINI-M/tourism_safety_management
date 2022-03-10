@@ -60,4 +60,134 @@ export const spots =
         ]
         
 	},
+    {"id" : 7,
+        "name" : "Thousand lights mosque",
+        "latti":13.0499526,
+        "longi":80.2824026,
+        "discription":"Thousand Lights is a multi-domed mosque in Anna Salai in Chennai, Tamil Nadu, India, is one of the largest mosques in the country and is a revered place of worship and azadari for Shia.",
+        "img":["http://www.excitingindia.in/wp-content/uploads/2017/04/Thousand-Lights-Mosque.jpg"
+        ]
+	},
+
+{"id" : 8,
+        "name" : "Guindy National Park",
+        "latti":13.0499526,
+        "longi":80.2824026,
+	"discription":"Guindy National Park is a 2.70 km2 (1.04 sq mi) protected area of Tamil Nadu, located in Chennai, India. It is the 8th-smallest National Park of India.The park is an extension of the grounds surrounding Raj Bhavan, formerly known as the 'Guindy Lodge', the official residence of the governor of Tamil Nadu.",
+        "img":["https://ak.jogurucdn.com/media/image/p25/place-2014-01-28-16-Guindynationalpark48a4a1867861da2c7f52ea4fb864750b.jpg"
+        ]
+	},
+{"id" : 9,
+        "name" : "Maruthamalai Hill Temple",
+        "latti":13.0499526,
+        "longi":80.2824026,
+	"discription":"Marudhachalamurthy (Lord Muruga) Temple, Marudamalai is a popular 12th-century hill temple situated in Coimbatore, Tamil Nadu, India. Built by Tamil kings during the Sangam period as indicated in the Purananuru, the temple is dedicated to Lord Murugan ",
+        "img":["https://upload.wikimedia.org/wikipedia/commons/4/46/Maruthamalai_Rajagopuram_1.jpg"
+        ]
+	},
+{"id" : 10,
+        "name" : "VOC park and Zoo",
+        "latti":13.0499526,
+        "longi":80.2824026,
+	"discription":"V O Chidambaranar park and zoo (abbreviated VOC park) is a zoological garden and amusement park located in Coimbatore, Tamil Nadu, India. As of 2013, the park houses around 890 animals including 335 birds, 106 mammals and 54 reptiles.[3] The park is named after freedom fighter V O Chidambaram Pillai.",
+        "img":["https://www.trawell.in/admin/images/upload/42821271VOC_Zoo.jpg"
+        ]
+	},
+{"id" : 11,
+        "name" : "Siruvani Waterfalls",
+        "latti":13.0499526,
+        "longi":80.2824026,
+	"discription":"Siruvani Waterfalls[1] and the dam named after them are located 36 km (22 mi) west of Coimbatore in the Western Ghats. The reservoir at Siruvani was built for Tamil Nadu by the Kerala government with funds collected by the Tamil Nadu government to meet the drinking water requirements of Coimbatore. ",
+        "img":["https://media-cdn.tripadvisor.com/media/photo-s/09/8c/ea/fe/siruvani-waterfalls.jpg"
+        ]
+	},
+{"id" : 12,
+        "name" : "Aariyam Kaal Mandapam",
+        "latti":13.0499526,
+        "longi":80.2824026,
+	"discription":"Aariyam Kaal Mandapam is an excellent masterpiece of the Pandian era, which is built out of a single rock. Located inside the Meenakshi Amman temple, this hall houses 1000 pillars, which was built during 1569 A.D. Once you enter Meenakshi Amman temple it will lead to this mandabam (hall).",
+        "img":["https://www.hlimg.com/images/things2do/738X538/60_1523701100t.jpg"
+        ]
+	},
+
+{"id" : 13,
+        "name" : "Vaigai Dam",
+        "latti":13.0499526,
+        "longi":80.2824026,
+	"discription":"The Vaigai Dam is built across the Vaigai River near Andipatti, in the Theni district of Tamil Nadu, southern India. Near the dam, the Government of Tamil Nadu has constructed an Agricultural Research Station for researching the growing of a variety of crops, including rice, sorghum, blackgram, cowpea and cotto",
+        "img":["https://upload.wikimedia.org/wikipedia/commons/8/85/Vaiga_dam_full_view.jpg"
+        ]
+	},
+
+{"id" : 14,
+        "name" : "Gandhi Memorial Museum",
+        "latti":13.0499526,
+        "longi":80.2824026,
+	"discription":"Gandhi Memorial Museum, established in 1959, is a memorial museum for Mahatma Gandhi located in the city of Madurai in Tamil Nadu, India. Known as Gandhi Museum, it is now one of the five Gandhi Sanghralayas (Gandhi Museums) in the country. It includes a part of the blood-stained garment worn by Gandhi when he was assassinated by Nathuram Godse.",
+        "img":["https://www.mkgandhi.org/images/madurai%20museum.jpg"
+        ]
+	},
+
+{"id" : 15,
+        "name" : "Bhagavathi Amman Temple",
+        "latti":13.0499526,
+        "longi":80.2824026,
+	"discription":"The Bhagavathi Kumari Amman Temple is located in Kanyakumari in Tamil Nadu, at the southern tip of main land India, there by located on the confluence of the Bay of Bengal, the Arabian Sea, and the Indian Ocean. She is also known by several other names, including Kanya Devi and Devi Kumari. ",
+        "img":["https://ak.jogurucdn.com/media/image/p25/place-2015-06-8-5-Bhagavathyammantemple9af609e1d0ef58bcb03f5649f537a3bd.jpg"
+        ]
+	},
+
+{"id" : 16,
+        "name" : "Kanyakumari Beach",
+        "latti":13.0499526,
+        "longi":80.2824026,
+	"discription":"Located in the southernmost part of India, Kanyakumari beach with its beautiful hue-changing beaches, the confluence of three water bodies: Bay of Bengal, Indian Ocean, and the Arabian Sea.",
+        "img":["https://img.traveltriangle.com/blog/wp-content/uploads/2018/04/kanyakumari-beach.jpg"
+        ]
+	},
+
+
+{"id" : 17,
+        "name" : "Thiruvalluvar Statue",
+        "latti":13.0499526,
+        "longi":80.2824026,
+	"discription":"Standing on a 38 feet high pedestal, the gigantic statue of Saint Thiruvalluvar is another popular attraction of a Kanyakumari tour. This statue was built by the Tamil Nadu Government, in the honor of Saint Thiruvalluvar who is undeniably one of the greatest Tamil poets and philosophers.",
+        "img":["https://www.makemytrip.com/travel-guide/media/dg_image/kanyakumari/Thiruvalluvar-Statue-in-Kanyakumari-Ramanathan-Kathiresan-flickr_0.jpg"
+        ]
+	},
+
+
+
+{"id" : 18,
+        "name" : "Avalanche Lake",
+        "latti":13.0499526,
+        "longi":80.2824026,
+	"discription":"Avalanche Lake is an important tourism destination in the Nilgiris district.[3] The lake is surrounded by a rolling landscape with blooming flowers like magnolias, orchids and rhododendrons. Tourists can traverse beside the lake through winding paths around the lake",
+        "img":["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOkcIkkWCW8hgsxXPhSlzRX5u_c8XaynWBpA&usqp=CAU"
+        ]
+	},
+
+
+
+
+{"id" : 19,
+        "name" : "Doddabetta Peak",
+        "latti":13.0499526,
+        "longi":80.2824026,
+	"discription":"Doddabetta is the highest mountain in the Nilgiri Mountains at 2,637 metres. There is a reserved forest area around the peak. It is 9 km from Ooty, on the Ooty-Kotagiri Road in the Nilgiris District of Tamil Nadu, India. It is a popular tourist attraction with road access to the summit",
+        "img":["https://3.imimg.com/data3/ST/PJ/MY-11202249/40-500x500.jpg"
+        ]
+	},
+
+
+
+{"id" : 20,
+        "name" : "Kalhatty Waterfalls",
+        "latti":13.0499526,
+        "longi":80.2824026,
+	"discription":"Kalhatti Falls also called as Bird Watcher's Falls is a tourist spot near Ooty, The Nilgiris, Tamil Nadu. These falls are about 13 km from Ooty, on the Ooty to Mysore Road or Sigur Ghat Road, It is situated at an average height of around 400 feet in the Sigur Plateau.",
+        "img":["https://img.traveltriangle.com/blog/wp-content/uploads/2020/03/Laws-Falls_2nd-mar.jpg"
+        ]
+	},
+
 ]
