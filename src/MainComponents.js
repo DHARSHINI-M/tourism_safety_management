@@ -5,6 +5,7 @@ import Login from './components/Login';
 import PlanTrip from './PlanTrip';
 import Header from './components/HeaderComponent';
 import SpotDetail from './components/SpotDetails';
+import ChatIndex from './chatbot/ChatIndex';
 function Main(){
   
   const [loggedIn, setloggedIn] = useState(false);

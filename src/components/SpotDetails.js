@@ -2,6 +2,8 @@ import { useLocation } from "react-router-dom";
 import { spots } from "../Contents/spots";
 import DisMap from "./DisMap";
 import { useState } from "react";
+import DisplaySMap from "../mapuse/DisplaySMap";
+import ChatIndex from "../chatbot/ChatIndex";
 import {Card,CardBody,CardImg,Carousel,Button,Form, Row,Col, InputGroup } from 'react-bootstrap';
 import DisplaySMap from "../maps/DisplaySMap";
 function SpotDetail(){
@@ -9,7 +11,6 @@ function SpotDetail(){
     const location = useLocation();
     const handleSelect = (selectedIndex, e) => {
         console.log(selectedIndex,"vk");
-        setindex({index:selectedIndex});
       };
     const imageiterate = spots.map((S)=>{
         if(S.name.valueOf() ==location.state.name.valueOf()){
@@ -37,7 +38,7 @@ function SpotDetail(){
                     <div className="row">
                         <div className="col-md-6">
                             <h2>{S.name}</h2>
-                            <Carousel activeIndex={index} onSelect={()=>handleSelect()} >
+                            <Carousel activeIndex={index}  >
                                 {imageiterate}
                             </Carousel>
                             <h3>Description</h3>
@@ -51,10 +52,19 @@ function SpotDetail(){
                         </div>
                     </div>
                     <div className="row">
+<<<<<<< HEAD
                         <div className="col-md-12">
                         <DisplaySMap/>
                         </div>
                     </div>
+=======
+                        
+                        <div className="col-md-12">
+                            <DisplaySMap/>
+                        </div>
+                    </div>
+                    
+>>>>>>> 84d33a4 (chatbot)
                 </div>
                 
             );
