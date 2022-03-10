@@ -5,9 +5,9 @@ body {
   padding: 0;
 }
 
-#mapss,
-#panoss {
+#map,
+#pano {
   float: left;
-  height: 100%;
+  height: 700px;
   width: 50%;
 }

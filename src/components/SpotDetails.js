@@ -2,7 +2,6 @@ import { useLocation } from "react-router-dom";
 import { spots } from "../Contents/spots";
 import DisMap from "./DisMap";
 import { useState } from "react";
-import DisplaySMap from "../mapuse/DisplaySMap";
 import ChatIndex from "../chatbot/ChatIndex";
 import {Card,CardBody,CardImg,Carousel,Button,Form, Row,Col, InputGroup } from 'react-bootstrap';
 import DisplaySMap from "../maps/DisplaySMap";
@@ -52,19 +51,12 @@ function SpotDetail(){
                         </div>
                     </div>
                     <div className="row">
-<<<<<<< HEAD
-                        <div className="col-md-12">
-                        <DisplaySMap/>
-                        </div>
-                    </div>
-=======
                         
                         <div className="col-md-12">
                             <DisplaySMap/>
                         </div>
                     </div>
                     
->>>>>>> 84d33a4 (chatbot)
                 </div>
                 
             );
